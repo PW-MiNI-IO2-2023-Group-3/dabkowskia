@@ -27,7 +27,7 @@ class StringCalculatorTest {
     return Stream.of(
         Arguments.of("0",0),
         Arguments.of("11",11),
-        Arguments.of("1000",1000)
+        Arguments.of("1000",1001)
     );
   }
 
